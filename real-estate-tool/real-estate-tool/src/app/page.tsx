@@ -60,7 +60,7 @@ export default function Home() {
 
         <div className="absolute bottom-0 w-64 p-6 border-t bg-gray-50">
           <div className="text-xs text-gray-500">
-            <p>© 2024 Real Estate Analysis</p>
+            <p>© 2025 Real Estate Analysis</p>
             <p className="mt-1">Professional Financial Tools</p>
           </div>
         </div>
